@@ -1,0 +1,11 @@
+.div1{
+    border: 1px solid green;
+}
+.div2{
+    border: 1px solid red;
+}
+span{
+    position: absolute;/*或fixed、脱离文档流*/
+    float: left;/*或者right*/
+
+}
